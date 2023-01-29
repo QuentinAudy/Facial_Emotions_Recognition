@@ -101,5 +101,7 @@ Finally, we have some files, that are the model we saved:
 
 
 200Epoch64BatchAugmented.hdf5: This is our final audio model, with data augmentation.
+
 basic-model-arch.hdf5: This is the first audio model, we trained on it.
+
 vggface_test.h5: This is our final model, used for image emotion recognition
